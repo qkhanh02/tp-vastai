@@ -1,0 +1,6 @@
+name: LivePortrait
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ffmpeg<7
