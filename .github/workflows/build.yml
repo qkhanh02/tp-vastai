@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - "main"
-  workflow_dispatch:  # <--- thêm dòng này vào đây để bật nút Run thủ công
 
 jobs:
   docker:
